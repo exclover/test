@@ -1,1 +1,3 @@
-setTimeout(() => console.log("aaaa"), 3000);
+setTimeout(() => {
+  console.log("aaaa")
+}, 3000);
